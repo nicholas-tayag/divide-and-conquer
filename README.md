@@ -45,7 +45,6 @@ Meal prices and protein values are hypothetical; benchmark inputs are synthetic.
 ## Acknowledgments
 
 OpenAI Codex assisted with the implementation and experiments. The report's AI-use
-appendix contains the detailed disclosure. Plot styling follows
-[Samuel Cohen's project](https://github.com/samuelcohen1/song-scheduling-project).
+appendix contains the detailed disclosure. 
 Background: Börzsönyi, Kossmann, and Stocker,
 [The Skyline Operator](https://doi.org/10.1109/ICDE.2001.914855), ICDE 2001.
